@@ -1,0 +1,89 @@
+body {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.container {
+    margin-bottom: 70px;
+}
+
+#profil {
+    margin-bottom: 50px;
+}
+
+img {
+    display: block;
+    width: 60px;
+    position: relative;
+}
+
+.date {
+    color: gray;
+    font-size: 13px;
+}
+
+.edit-profil {
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: #0D6EFD;
+    color: white;
+    height: 40px;
+}
+.edit-profil:hover {
+    text-decoration: none;
+    background-color: #0B5ED7;
+    color: aliceblue;
+}
+
+
+.follow {
+    background-color: black;
+	border-style: none;
+	cursor: pointer;
+    border: none;
+	border-radius: 50%;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.follow:hover {
+    background-color: #304f61;
+}
+
+#part {
+    display: flex;
+    align-items: center;
+}
+
+#text {
+    margin-left: 50px;
+}
+
+body {
+    margin-top: 100px;
+}
+
+img {
+    margin-right: 20px;
+    width: 250px;
+    height: 150px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.lien {
+    width: 250px;
+    height: 150px;
+}
+
+
+.edit {
+    color: blue;
+    text-decoration: underline;
+}

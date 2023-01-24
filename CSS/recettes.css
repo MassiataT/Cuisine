@@ -1,0 +1,34 @@
+.container {
+    margin-bottom: 70px;
+}
+
+#part {
+    display: flex;
+    align-items: center;
+}
+
+#text {
+    margin-left: 50px;
+}
+
+img {
+    margin-right: 20px;
+    width: 250px;
+    height: 150px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.lien {
+    width: 250px;
+    height: 150px;
+}
+
+
+.edit {
+    color: blue;
+    text-decoration: underline;
+}
