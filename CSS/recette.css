@@ -122,6 +122,7 @@ p.col-6:nth-child(2n+1) {
 
     #info2 {
         position: fixed;
+        top: 0;
         right: 0;
         width: 40%;
         height: 100vh;

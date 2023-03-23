@@ -1,21 +1,27 @@
 body {
-    padding-top: 100px;
-  }
-  #mobile {
-    display: none;
-  }
-  
-  ul.show {
-    width: 300px;
-  }
-  
-  form.d-flex:nth-child(1) {
-    width: 250px;
-  }
-  
-  form.d-flex:nth-child(1) > input:nth-child(1) {
-    width: 175px;
-  }
+  padding-top: 100px;
+}
+#mobile {
+  display: none;
+}
+
+ul.show {
+  width: 300px;
+}
+
+form.d-flex:nth-child(1) {
+  width: 250px;
+}
+
+form.d-flex:nth-child(1) > input:nth-child(1) {
+  width: 175px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
   
   /* @media (max-width: 1024px){
     body {

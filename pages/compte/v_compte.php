@@ -38,7 +38,7 @@ $date = date('d-m-Y', $time);
     </div>
 
     <hr>
-    <h2>Recettes</h2>
+    <h2>Mes recettes</h2>
     <br><br>
     <?php
 
