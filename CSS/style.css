@@ -18,7 +18,7 @@ form.d-flex:nth-child(1) > input:nth-child(1) {
 }
 
 footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
 }
